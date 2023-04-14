@@ -1,3 +1,5 @@
+# DISCORD-SCHEDULER-BOT-APP
+
 please run to start the app
 ```bash
 docker build --tag [image_name] .
